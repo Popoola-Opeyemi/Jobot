@@ -1,0 +1,5 @@
+- First we are building a bot to search for specfic tweets on twitter
+- searches for tweeets on a specific term
+- custom commands can also be issued out through telegram to search for a specific tweet
+- searches for new tweets every 10 minutes.
+-
